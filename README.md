@@ -11,8 +11,8 @@
   
   <tbody>
     <tr>
-      <td><a href="https://Quooke.github.io/MCA-2019">WEEK 1</a></td>
-      <td><a href="https://Quooke-andric.github.io/MCA-2025-2908451h/week2.html">WEEK 2</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week1.html">WEEK 1</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week2.html">WEEK 2</a></td>
       <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week3.html">WEEK 3</a></td>
       <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week4.html">WEEK 4</a></td>
       <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week5.html">WEEK 5</a></td>

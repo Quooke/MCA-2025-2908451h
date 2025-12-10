@@ -35,9 +35,7 @@
 <p>The title comes from the french form of gymnopaedia, the Greek annual festival. The first and third composites were published in 1888 and the second fifteen years later in 1895. The songs are in the public domain with lots of different musicians distributing their performance. The sheet music is also available to download from music score for free and distribution in a few different collections of piano sheet music books.</p>
 
       
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+    
     
   </body>
 </html>

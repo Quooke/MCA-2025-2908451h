@@ -3,23 +3,6 @@
 <!-- Version 1.1 -->
 \
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>MCA-2019</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="MCA-2019" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://katja-andric.github.io/MCA-2019/" />
-<meta property="og:url" content="https://katja-andric.github.io/MCA-2019/" />
-<meta property="og:site_name" content="MCA-2019" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"MCA-2019","url":"https://katja-andric.github.io/MCA-2019/","name":"MCA-2019","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/MCA-2019/assets/css/style.css?v=067beb464a3d51b3a476da1b230e8c069ad34866">
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -30,15 +13,15 @@
       <table>
   <tbody>
     <tr>
-      <td><a href="https://katja-andric.github.io/MCA-2019">WEEK 1</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week2/week2.html">WEEK 2</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week3/week3.html">WEEK 3</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week4/week4.html">WEEK 4</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week5/week5.html">WEEK 5</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week7/week7.html">WEEK 7</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week8/week8.html">WEEK 8</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week9/week9.html">WEEK 9</a></td>
-      <td><a href="https://katja-andric.github.io/MCA-2019/LabTasks/week-10/week10.html">WEEK 10</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2019">WEEK 1</a></td>
+      <td><a href="https://Quooke-andric.github.io/MCA-2025-2908451h/week2.html">WEEK 2</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week3.html">WEEK 3</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week4.html">WEEK 4</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week5.html">WEEK 5</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week7.html">WEEK 7</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week8.html">WEEK 8</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week9.html">WEEK 9</a></td>
+      <td><a href="https://Quooke.github.io/MCA-2025-2908451h/week10.html">WEEK 10</a></td>
     </tr>
   </tbody>
 </table>

@@ -7,8 +7,6 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://katja-andric.github.io/MCA-2019/">MCA-2019</a></h1>
-      
 
       <table>
   <tbody>
@@ -30,8 +28,7 @@
 
 <h2 id="task-1-dataset-theme">Task 1: Dataset theme</h2>
 
-<p>The theme of my dataset is the American blues rock band The Black Keys. The band consists of two members, a guitarist and lead vocalist Dan Auerbach and a drummer Patric Carney. The duo formed the bend in Akron, Ohio in 2001 and has since released nine albums for which it won numerous awards, including six Grammy awards. To this day, they have five number one hits to their name, including Tighten Up, Gold on the Ceiling and Lonely Boy. Their latest album, Let’s Rock, was released mid 2019 after a five year break. 
-I chose them as my dataset theme because I am a big fan of the band and their work, so I am quite familiar with their music, which I believe will help me complete the further tasks better.</p>
+<p>The theme I picked is music based on festivals and the song I chose is gymnopedie  No1 .It is a series of three piano pieces created by Erik Satie. Although I’m not proficient in music, I do know how to play this song on the piano. Because of its familiarity, I believe that I will understand if there are any mistakes when transforming this music.</p>
 
 <h2 id="task-2-current-manifestations-of-data-relating-to-my-dataset">Task 2: Current manifestations of data relating to my dataset</h2>
 

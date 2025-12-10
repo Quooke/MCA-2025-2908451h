@@ -8,7 +8,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <table>
+  
   <tbody>
     <tr>
       <td><a href="https://Quooke.github.io/MCA-2019">WEEK 1</a></td>
